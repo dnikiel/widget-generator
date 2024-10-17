@@ -4,7 +4,7 @@ import HotelSearchWrapper from "../HotelSearchWrapper";
 
 const App = () => (
   <div className={styles.container}>
-    <h1>Hotel widget generator</h1>
+    <h1>Hotel Widget Generator</h1>
     <HotelSearchWrapper />
   </div>
 );
